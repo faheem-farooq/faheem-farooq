@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I am a fourth-year computer science engineering student at VIT, passionate about exploring the realms of coding, machine learning, and data science.
+I am a fourth-year computer science engineering student at VIT, passionate about exploring the realms of coding, machine learning, and artificial intelligence.
 
 
 ## 🚀 What I'm Up To
